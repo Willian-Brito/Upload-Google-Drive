@@ -1,0 +1,44 @@
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.deps.json
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/ref/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.pdb
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Auth.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Core.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Drive.v3.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.CopyComplete
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/ref/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.pdb
+/home/h1s0k4/Área de trabalho/App/dev/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.genruntimeconfig.cache
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.deps.json
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/ref/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/UploadGoogleDrive.pdb
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Auth.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Core.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Google.Apis.Drive.v3.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.csproj.CopyComplete
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/ref/UploadGoogleDrive.dll
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.pdb
+/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/obj/Debug/net6.0/UploadGoogleDrive.genruntimeconfig.cache

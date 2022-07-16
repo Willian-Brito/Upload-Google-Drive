@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fa7a+U8HgAljSliBtIbAHUJS7ux3jQB9sIWSqSVoXTdmWnmvr/EdnulzZ3mS0QtlaSF/iD64D+3RDP3pMWRzng==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/dev/Upload Google Drive/UploadGoogleDrive/UploadGoogleDrive.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/google.apis/1.57.0/google.apis.1.57.0.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/google.apis.auth/1.57.0/google.apis.auth.1.57.0.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/google.apis.core/1.57.0/google.apis.core.1.57.0.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/google.apis.drive.v3/1.57.0.2746/google.apis.drive.v3.1.57.0.2746.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

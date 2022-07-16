@@ -1,0 +1,81 @@
+Configurar Conta de Serviço
+
+1) Cria a pasta Token:    C:\MSystem\App\AppWeb\Arquivos\Token
+
+2) Acessar o site:   https://console.cloud.google.com     e Concordar com os termos.
+
+	Clicar em  " DISPENSAR "  na parte superior Direita da Tela  (Teste Gratuíto US$ 300)
+
+
+3) Acessar passo a passo os MENUs :
+
+	1) => IAM e administradores / Criar um Projeto 
+
+		com nome  " UploadDrive "    (escrever do mesmo jeito como está)
+
+		clicar em  " CRIAR "
+
+
+	2) => APIs e serviços / Biblioteca
+
+		escolher a Biblioteca   " Google Drive API "
+
+		clicar em   ATIVAR
+
+			Aguardar que vai aparecer um BOTÃO AZUL na parte Superior direita da tela
+			
+			clicar em  CRIAR CREDENCIAIS  (botao azul )
+
+
+		(1) Tipo de Credencial
+
+			Selecionar uma API	= Google Drive API
+			Marcar a opção	= Dados do Usuário
+
+			clicar em  PRÓXIMA
+
+		(2) Tela de Permissão OAuth
+
+			Nome do app		 =  " UploadDrive "
+			E-mai para suporte do usuario	 = email da conta para upar arquivos
+			Dados de contato do desenvolvedor = msystemtupa@gmail.com
+
+			clicar em  SALVAR E CONTINUAR
+
+		(3) Escopos
+
+			ir até o final da página e 
+
+			clicar em  " SALVAR E CONTINUAR "  novamente
+
+
+		(4) ID do cliente OAuth
+
+			Tipo de aplicativo	= " App para computador "
+			Nome		= " App MS ERP "
+
+			Clicar em CRIAR
+
+
+		(5) Suas credenciais
+
+			clicar em " DOWNLOAD " para fazer o download das suas credenciais
+
+			Renomear o arquivo baixado para  " drive.json "
+
+			Recortar e colar na pasta
+
+				C:\MSystem\App\AppWeb\Arquivos\Token
+
+			clicar em  " CONCLUIR "
+
+
+
+	clicar no menu	" Tela de permissão OAuth "
+
+	clicar no Botão	" PUBLICAR APLICATIVO "
+
+	clicar em		" CONFIRMAR "
+
+
+4) Fechar a página do google

@@ -1,0 +1,8 @@
+
+
+# Comando: dotnet add package Google.Apis.Drive.v3 
+
+
+https://developers.google.com./drive/api/v3/reference/files/create
+https://developers.google.com/identity/protocols/oauth2/service-account
+https://developers.google.com/drive/api/quickstart/dotnet
