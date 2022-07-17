@@ -27,7 +27,8 @@ namespace UploadGoogleDrive
                 (
                     GoogleClientSecrets.Load(stream).Secrets,
                     Scopes,
-                    "user",
+                    // "user",
+                    "anyone",
                     CancellationToken.None,
                     new FileDataStore(credPath, true)
                 ).Result;

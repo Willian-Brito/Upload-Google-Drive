@@ -1,7 +1,11 @@
 using System;
+using System.IO;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Drive.v3;
 using Google.Apis.Services;
+using Google.Apis.Drive.v3.Data;
+using Google.Apis.Requests;
+
 
 namespace UploadGoogleDrive
 {
@@ -38,31 +42,59 @@ namespace UploadGoogleDrive
         #endregion
 
         #region Upload
-        public void Upload(string path)
+        public void Upload(string ArquivoZip)
         {
 
-            if(File.Exists(path))
+            if(System.IO.File.Exists(ArquivoZip))
             {
                 Console.Clear();
                 Console.WriteLine("[+] Iniciando Upload no Google Drive");
 
                 var fileMetadata = new Google.Apis.Drive.v3.Data.File();
 
-                fileMetadata.Name = Path.GetFileName(path);
+                fileMetadata.Name = Path.GetFileName(ArquivoZip);
                 fileMetadata.MimeType = "application/zip";
                 FilesResource.CreateMediaUpload request;
 
-                using (var stream = new System.IO.FileStream(path,System.IO.FileMode.Open))
+                using (var stream = new FileStream(ArquivoZip, FileMode.Open))
                 {
                     request = service.Files.Create(fileMetadata, stream,"application/zip");
                     request.Fields = "id";
+                    
                     request.Upload();
                 }
 
-                var file = request.ResponseBody;
+                var file = request.ResponseBody;                
+                var Url = GeneratePublicUrl(file.Id);
+                
+                Console.WriteLine("");
+                Console.WriteLine($"Link para Download: {Url}");
+                Console.WriteLine("Upload Efetuado com sucesso!");
+            }
+        }
+        #endregion
 
-                Console.WriteLine($"Link para Download: https://drive.google.com/uc?export=download&confirm=t&id={file.Id}");
-                System.Console.WriteLine("Upload Efetuado com sucesso!");
+        #region GeneratePublicUrl
+        private string GeneratePublicUrl(string fileId)
+        {
+            try
+            {
+                Permission userPermission = new Permission()
+                {
+                    Type = "anyone",
+                    Role = "reader"
+                };
+
+                var request = this.service.Permissions.Create(userPermission, fileId);
+                request.Execute();
+
+                var Url = $"https://drive.google.com/uc?export=download&confirm=t&id={request.FileId}";
+
+                return Url;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
             }
         }
         #endregion
